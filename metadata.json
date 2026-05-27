@@ -1,0 +1,6 @@
+{
+  "name": "NoteFlow",
+  "description": "A premium, Notion-inspired block-based note-taking app with folders, tags, pinning, search, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
